@@ -1,0 +1,93 @@
+{
+  "justica_trabalho_j5": {
+    "descricao": "Justiça do Trabalho",
+    "tribunais": {
+      "18": {
+        "nome_tribunal": "TRT 18ª Região (Goiás)",
+        "unidades_origem_oooo": {
+          "0001": "1ª Vara do Trabalho de Goiânia",
+          "0002": "2ª Vara do Trabalho de Goiânia",
+          "0003": "3ª Vara do Trabalho de Goiânia",
+          "0004": "4ª Vara do Trabalho de Goiânia",
+          "0005": "5ª Vara do Trabalho de Goiânia",
+          "0006": "6ª Vara do Trabalho de Goiânia",
+          "0007": "7ª Vara do Trabalho de Goiânia",
+          "0008": "8ª Vara do Trabalho de Goiânia",
+          "0009": "9ª Vara do Trabalho de Goiânia",
+          "0010": "10ª Vara do Trabalho de Goiânia",
+          "0011": "11ª Vara do Trabalho de Goiânia",
+          "0012": "12ª Vara do Trabalho de Goiânia",
+          "0013": "13ª Vara do Trabalho de Goiânia",
+          "0014": "14ª Vara do Trabalho de Goiânia",
+          "0015": "15ª Vara do Trabalho de Goiânia",
+          "0016": "16ª Vara do Trabalho de Goiânia",
+          "0017": "17ª Vara do Trabalho de Goiânia",
+          "0018": "18ª Vara do Trabalho de Goiânia",
+          "0091": "1ª Vara do Trabalho de Anápolis",
+          "0092": "2ª Vara do Trabalho de Anápolis",
+          "0093": "3ª Vara do Trabalho de Anápolis",
+          "0094": "4ª Vara do Trabalho de Anápolis",
+          "0101": "1ª Vara do Trabalho de Rio Verde",
+          "0102": "2ª Vara do Trabalho de Rio Verde",
+          "0103": "3ª Vara do Trabalho de Rio Verde",
+          "0104": "4ª Vara do Trabalho de Rio Verde",
+          "0121": "1ª Vara do Trabalho de Itumbiara",
+          "0122": "2ª Vara do Trabalho de Itumbiara",
+          "0131": "Vara do Trabalho de Luziânia",
+          "0141": "Vara do Trabalho de Catalão",
+          "0171": "Vara do Trabalho de Jataí",
+          "0181": "Vara do Trabalho de São Luís de Montes Belos",
+          "0211": "Vara do Trabalho de Mineiros",
+          "0241": "Vara do Trabalho de Valparaíso de Goiás",
+          "0251": "Vara do Trabalho de Formosa",
+          "0261": "Vara do Trabalho de Goianésia",
+          "0281": "Vara do Trabalho de Inhumas",
+          "0291": "Vara do Trabalho de Ceres",
+          "0301": "Vara do Trabalho de Posse",
+          "0311": "Vara do Trabalho de Pires do Rio",
+          "0321": "Vara do Trabalho de Quirinópolis",
+          "0331": "Vara do Trabalho de Caldas Novas",
+          "0341": "Vara do Trabalho de Águas Lindas de Goiás",
+          "0351": "Vara do Trabalho de Palmeiras de Goiás",
+          "0361": "Vara do Trabalho de Porangatu",
+          "0381": "Vara do Trabalho de Uruaçu"
+        }
+      },
+      "02": {
+        "nome_tribunal": "TRT 2ª Região (São Paulo - Capital e Guarulhos)",
+        "unidades_origem_oooo": {
+          "0001": "1ª Vara do Trabalho de São Paulo",
+          "0002": "2ª Vara do Trabalho de São Paulo",
+          "0311": "1ª Vara do Trabalho de Guarulhos"
+        }
+      },
+      "15": {
+        "nome_tribunal": "TRT 15ª Região (Campinas/SP Interior)",
+        "unidades_origem_oooo": {
+          "0001": "1ª Vara do Trabalho de Campinas",
+          "0002": "2ª Vara do Trabalho de Campinas"
+        }
+      }
+    }
+  },
+  "justica_estadual_j8": {
+    "descricao": "Justiça Estadual",
+    "tribunais": {
+      "09": {
+        "nome_tribunal": "TJGO (Tribunal de Justiça de Goiás)",
+        "unidades_origem_oooo": {
+          "0051": "Comarca de Goiânia",
+          "0006": "Comarca de Anápolis",
+          "0011": "Comarca de Aparecida de Goiânia"
+        }
+      },
+      "26": {
+        "nome_tribunal": "TJSP (Tribunal de Justiça de São Paulo)",
+        "unidades_origem_oooo": {
+          "0100": "Foro Central Cível de São Paulo",
+          "0001": "Comarca de Santos"
+        }
+      }
+    }
+  }
+}
