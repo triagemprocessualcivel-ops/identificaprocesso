@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: consulta-juizo-cnj
+    env: python
+    region: ohio
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: python app.py
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11
